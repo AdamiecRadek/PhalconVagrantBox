@@ -15,3 +15,5 @@ phalcon
 to create new projects under /vagrant/www/
 Example:
 /vagrant/www/test is available under phalcon.dev/test
+
+MySQL root password is "123"
